@@ -13,10 +13,11 @@ Development
 ===========
 
 Project Name: OutCast
+
 Project Start Date: 15/06/2012
+
 Developed in: Haven't decided yet!
 
-----
 Team
 ----
 Lead Developer: Baxter (Toucanleap)
